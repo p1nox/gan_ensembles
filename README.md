@@ -3,6 +3,15 @@
 > Ensembles of Generative Adversarial Networks as a Data Augmentation Technique for Alzheimer research.
 > Machine Learning Engineer Nanodegree at Udacity - Capstone Project
 
+Data scarcity is a regular problem in research, and in medicine it’s especially difficult to find datasets publicly available. The main reason is its rarity, by definition images of anomalies are scattered and/or not common, and also there are a lot of legal issues that prevent sharing personal information about patients. In this talk, I’m going to give an introduction to ensembles, and more specifically to Generative Adversarial Networks (GANs) ensembles, applied to this problem of data scarcity, generating MRI images of demented brains that could be use in Alzheimer research.
+
+* Presented at PyCon Italia 2023 - https://pycon.it/en/event/ensembles-of-gans-as-a-data-augmentation-technique-for-alzheimer-research
+* Slides: https://speakerdeck.com/p1nox/ensembles-of-gans-as-a-data-augmentation-technique-for-alzheimer-research
+* Video: https://youtu.be/6M0lUv9poaw?si=Kffsks6HrxZH267w
+
+* Presented at PyCon Bolivia 2022: https://bo.pycon.org
+* Slides: https://speakerdeck.com/p1nox/ensemble-of-gans-as-a-data-augmentation-technique-for-alzheimer-research
+
 ### Setup
 
 ```sh
